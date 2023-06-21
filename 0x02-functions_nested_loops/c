@@ -1,0 +1,11 @@
+
+========== 0-putchar ==========
+0-putchar:0: ERROR: Does not appear to be a unified-diff format patch
+total: 1 errors, 0 warnings, 0 lines checked
+
+========== 0-putchar.c ==========
+main
+
+========== 10-add.c ==========
+
+========== 11-print_to_98.c ==========
