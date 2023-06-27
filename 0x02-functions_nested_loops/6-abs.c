@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int_abs - computes the absolute value of interger
+ * _abs - computes the absolute value of interger
  * @c: The number to be checked
  * Return: Absolute value of number or zero
  */
